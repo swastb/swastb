@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swastika
-- 👀 I’m interested in ... Micro Service , AWS , Kubernetes , Devops
-- 🌱 I’m currently learning ... OpenStack , GCP
-- 💞️ I’m looking to collaborate on ... Cloud Native Projects
+- 👀 I’m interested in ... Micro Service , AWS , Kubernetes , Devops , Machine Learning 
+- 🌱 I’m currently learning ... OpenStack , Machine Learning , Neural Netwok 
+- 💞️ I’m looking to collaborate on ... Cloud Native Projects , Machine Learning Projects
 - 📫 How to reach me ... swastikabasuces@gmail.com
 
 <!---
